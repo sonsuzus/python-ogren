@@ -81,7 +81,7 @@ Else
     print("b büyüktür a")
   elif a == b:
     print("a eşittir b")
-  else a > b:
+  elif a > b:
     print("a büyüktür b")
 
 Bu örnekte ``a``, ``b``’den daha büyüktür, bu yüzden ilk koşul doğru değildir, aynı zamanda `elif` koşulu da doğru değildir, bu yüzden ``else`` koşuluna gidip "a büyüktür b " yazısını ekrana basıyoruz.
