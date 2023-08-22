@@ -16,7 +16,7 @@ Dikkatli olun
 
 - Çeviriler henüz düzenleme aşamasındadır.
 - Program kodlarının Türkçeleştirilmesi sırasında hatalar olabilir.
-- Çeviriler henüz üçüncü bir göz ile inclenmediği için karmaşık gelebilir.
+- Çeviriler henüz üçüncü bir göz ile incelenmediği için karmaşık gelebilir.
 
 Katkıda bulunun
 ---------------
